@@ -1,7 +1,7 @@
 "use client";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import { FaLayerGroup, FaBrain, FaCode, FaDatabase } from "react-icons/fa";
+import { FaLayerGroup, FaBrain, FaCode } from "react-icons/fa";
 import { SiOpenai, SiHuggingface, SiRender, SiNexon } from "react-icons/si";
 import { TbPointerFilled } from "react-icons/tb";
 import Slider from "react-slick";
