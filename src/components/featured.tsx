@@ -53,6 +53,20 @@ export default function Projects() {
                 link: "https://crypto-website-flax.vercel.app/",
                 github: "https://github.com/Sana-Farasat/Crypto-Website",
               },
+              {
+                title: "Todo Full Stack AI Chatbot",
+                image: "/todoapp.jpg",
+                desc: "Todo task management app by using NLP.",
+                link: "https://crypto-website-flax.vercel.app/",
+                github: "https://github.com/Sana-Farasat/Todo_AI_Chatbot",
+              },
+              {
+                title: "Gumroad Redesigned Landing Page",
+                image: "/gumroadlandingpage.jpg",
+                desc: "Cloned Gumroad landing page and redesigned it.",
+                link: "https://crypto-website-flax.vercel.app/",
+                github: "https://github.com/Sana-Farasat/Gumroad_Redesigned_LandingPage",
+              },
             ].map((proj, index) => (
               <Card
                 key={proj.title}
